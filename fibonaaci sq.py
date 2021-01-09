@@ -21,4 +21,4 @@ def fib(n):
     
 
 
-fib(5)
+fib(10)
